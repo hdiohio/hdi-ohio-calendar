@@ -1,0 +1,7 @@
+{
+  "name": "hdi-ohio-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "HDI Ohio calendar helper on Cloudflare Pages"
+}
